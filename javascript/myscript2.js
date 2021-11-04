@@ -71,5 +71,3 @@ window.onload = function() {
 		}
 	});
 };
-
-
